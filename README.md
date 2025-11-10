@@ -89,7 +89,7 @@
 <div align="left"> 
 
 
-<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=next">
+<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=laravel">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
