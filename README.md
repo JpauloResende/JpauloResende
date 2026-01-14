@@ -2,23 +2,13 @@
 
 
 
-<br>
-<br>
 
-
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
-</div>
 
 
  
 
-<br>
-<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JpauloResende&theme=dark&hide_border=false" alt="Estatísticas de Streak" />
-</div>
+
 
 
 
@@ -71,6 +61,7 @@
 
 <img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=git">
 
+<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=tailwind">
 
 
 </div>
@@ -93,12 +84,13 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+
+<img align="left"  height="80" width="80" src="https://i.ibb.co/DD3ZPfhs/51960834.png">
 
 
 
 
-<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=tailwind">
+
 
 
 
@@ -112,33 +104,8 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-<br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-<div align="center">
-  
 
 
-<br>
-<p align="centre"><b>Visitors Count</b></p> 
-<br>
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/JpauloResende?tab=overview&from=2024-11-01&to=2024-11-01&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
-</div>
-
-
-<div align="center">
-<h3>
-<img align="center" >
-</a>
-</div>
-
-<br>
-<br> 
 
 
 
