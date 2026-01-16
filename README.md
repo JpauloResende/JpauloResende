@@ -17,8 +17,10 @@
 
 ### 🛠️ Minhas Skills
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,js,css,html,react" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
   <img src="https://skillicons.dev/icons?i=php,git" height="50" />
+  
 </div>
 
 ### 📖 Estudando agora
