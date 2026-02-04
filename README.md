@@ -9,9 +9,12 @@
 ---
 
 ### 🚀 Sobre Mim
-- 👋 Olá, eu sou o **João Paulo**!
-- 💻 Desenvolvedor focado em **Laravel** (PHP) e **React**.
-- 🛠️ Busco sempre criar códigos limpos, performáticos e escaláveis.
+
+Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com experiência prática em projetos que utilizam **PHP** e **Laravel** como base.
+
+- **Localização:** Brasília, Brasil  
+- **Competências:** Laravel, Livewire, FluxUI  
+- **Ambiente de trabalho:** Windows, Laravel Herd Pro e PowerShell  
 
 ---
 
@@ -27,7 +30,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" />
   <img src="https://i.ibb.co/DD3ZPfhs/51960834.png" height="50" alt="TALL Stack ou similar" />
-  <img src="https://i.ibb.co/pvwYX60q/Alpine-js.png" height="50" alt="Alpine.js" />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="50" />
 </div>
 
 ---
