@@ -13,7 +13,7 @@
 Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com experiência prática em projetos que utilizam **PHP** e **Laravel** como base.
 
 - **Localização:** Brasília, Brasil  
-- **Competências:** Laravel, Livewire, FluxUI  
+- **Competências:** Laravel, Livewire, FluxUI, Filament, Alpine.js, React, inertia  
 - **Ambiente de trabalho:** Windows, Docker e Warp  
 
 ---
