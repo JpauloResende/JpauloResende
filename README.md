@@ -14,7 +14,7 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com expe
 
 - **Localização:** Brasília, Brasil  
 - **Competências:** Laravel, Livewire, FluxUI  
-- **Ambiente de trabalho:** Windows, Laravel Herd Pro e PowerShell  
+- **Ambiente de trabalho:** Windows, Docker e Warp  
 
 ---
 
