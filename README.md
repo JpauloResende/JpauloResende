@@ -31,7 +31,7 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com expe
 
 ### 📖 Estudando agora
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=filament" height="50" />
+   <img src="https://filamentphp.com/favicon/favicon.svg?v=6bT7Ed2SVA" height="45" />
 </div>
 
 ---
