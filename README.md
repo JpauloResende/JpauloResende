@@ -14,7 +14,7 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com expe
 
 - **Localização:** Brasília, Brasil  
 - **Competências:** Laravel, Livewire, FluxUI, Filament, Alpine.js, React, inertia  
-- **Ambiente de trabalho:** Windows, Ddev e Warp  
+- **Ambiente de trabalho:** Zorin, Ddev e Warp  
 
 ---
 
@@ -26,12 +26,13 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com expe
   <img src="https://skillicons.dev/icons?i=laravel" height="50" />
   <img src="https://i.ibb.co/DD3ZPfhs/51960834.png" height="50" alt="TALL Stack ou similar" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="50" />
+  <img src="https://filamentphp.com/favicon/favicon.svg?v=6bT7Ed2SVA" height="45" />
   
 </div>
 
 ### 📖 Estudando agora
 <div align="left">
-   <img src="https://filamentphp.com/favicon/favicon.svg?v=6bT7Ed2SVA" height="45" />
+   <img src="https://skillicons.dev/icons?i=vuejs" height="50" />
 </div>
 
 ---
