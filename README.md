@@ -14,7 +14,7 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com expe
 
 - **Localização:** Brasília, Brasil  
 - **Competências:** Laravel, Livewire, FluxUI, Filament, Alpine.js, React, inertia  
-- **Ambiente de trabalho:** Zorin, Ddev e Warp  
+- **Ambiente de trabalho:** Zorin, ddev e Warp  
 
 ---
 
